@@ -2,6 +2,10 @@
 
 This project is a Wordle clone built using React and Vite, aiming to recreate the popular word-guessing game Wordle.
 
+## URL - 
+```
+https://gagan20-vis.github.io/Wordle-Clone/
+```
 ## Table of Contents
 
 - [Introduction](#introduction)
